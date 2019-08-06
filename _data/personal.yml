@@ -1,44 +1,43 @@
-name: Ian Li
+name: Arnau Quera-Bofarull 
 
-label: UI Designer
+label: Astrophysicist and Data Scientist 
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: arnau.quera-bofarull@durham.ac.uk 
 
-phone: 
+#phone: 
 
-department: Android UX
+department: Institute for Computational Cosmology 
 
-institution: Google
+institution: Durham University 
 
-mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+mailing_address:
 
 profiles:
   - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
-  -
-    network: LinkedIn
-    username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    network: LinkedIn 
+    username: arnau-quera-bofarull
+    url: https://www.linkedin.com/in/arnau-quera-bofarull
   -
     network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    username: arnauquera
+    url: https://twitter.com/arnauquera
 
 intro:
   title: Hello!
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+
+    I'm a PhD student at [Durham](http://www.icc.dur.ac.uk/).
+    Before Durham, I did a Masters in Physics at the [University of Heidelberg](http://www.ita.uni-heidelberg.de/), and a double bachelors degree in Physics and Mathematics at the [University of Barcelona](https://www.ub.edu/web/ub/en/), where I am from.
+    I am currently supervised by
+
+    [Cedric Lacey](https://www.dur.ac.uk/physics/staff/profiles/?id=1875),
+    [Chris Done](https://www.dur.ac.uk/physics/staff/profiles/?username=dph0cd), and
+    [Richard Bower](https://www.dur.ac.uk/physics/staff/profiles/?id=527)
+
+    I am currently working on improving the way black holes are modelled in big cosmological simulations. For that end, I am working on a Python code that is capable of calculating how much mass is lifted from a black hole accretion disc in the form of a wind. You can follow the status of the project in my GitHub account [Qwind](https://www.github.com/arnauqb/qwind), and in upcoming scientific articles.
+
+    I have also worked on weak gravitational lensing, especifically on computing the bias to cosmological parameter inference due to second order general relativistic effects on light propagation -> [Paper](https://academic.oup.com/mnras/article-abstract/477/1/741/4935187).
+
+    Despite my love for Physics and Astronomy, I also have a passion for everything involving a computer and a terminal. During my PhD, I have done two industrial placements at [Ibex Innovations](http://ibexinnovations.co.uk/), and at the digital aviation lab of Boeing in Frankfurt. In both of the placements I had the opportunity to apply my knowledge in computer vision in medical imaging and aviation.
