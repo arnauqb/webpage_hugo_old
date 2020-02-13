@@ -2,5 +2,5 @@
   name: 'Simulating AGN feedback'
   description: >
     I am developing new subgrid models for cosmological simulations of galaxy formation. In particular I am modeling UV line-driven winds originating from AGN accretion discs. 
-  image: /img/agn_feedback.jpg
+  image: ../img/agn_feedback.jpg
   #url: http://ianli.com/thesis/
