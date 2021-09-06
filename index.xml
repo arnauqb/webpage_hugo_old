@@ -12,5 +12,20 @@
       <link>https://arnauqb.github.io/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>https://arnauqb.github.io/disk_winds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arnauqb.github.io/disk_winds/</guid>
+      <description>&lt;h1 id=&#34;black-hole-accretion-disc-winds&#34;&gt;Black hole accretion disc winds&lt;/h1&gt;
+&lt;p&gt;Slides: 
+&lt;a href=&#34;https://slides.com/arnauqb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://slides.com/arnauqb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Qwind code: 
+&lt;a href=&#34;https://github.com/arnauqb/Qwind.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/arnauqb/Qwind.jl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Paper: coming soon.&lt;/p&gt;
+&lt;p&gt;TODO: images with results.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
