@@ -26,5 +26,20 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://arnauqb.github.io/iclr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arnauqb.github.io/iclr/</guid>
+      <description>&lt;h1 id=&#34;bayesian-calibration-of-differentiable-agent-based-models&#34;&gt;Bayesian calibration of differentiable agent-based models&lt;/h1&gt;
+&lt;h2 id=&#34;paper&#34;&gt;Paper:&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.arnau.ai/iclr_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.arnau.ai/iclr_paper.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides:&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.arnau.ai/iclr_slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.arnau.ai/iclr_slides.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
